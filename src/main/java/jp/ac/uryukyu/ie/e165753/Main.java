@@ -42,7 +42,7 @@ public class Main {
                 System.out.printf("%sさんの勝ちです%n", player[1]);
                 break;
             default:
-                System.out.println("勝負はつきませんでした");
+                System.out.println("勝負はつきませんでした!");
         }
     }
 }
